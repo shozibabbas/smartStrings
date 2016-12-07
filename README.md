@@ -3,7 +3,6 @@
   35038<br>
   112434<br>
   Assignment 2: Smart Strings</p>
-<h1>Github Repo</h1>
 <h1>Introduction</h1>
 <p>Our task is to provide implementation of Strings using the  following types of smart pointers:</p>
 <ol>
